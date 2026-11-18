@@ -1,0 +1,6089 @@
+{
+ "note": "bundles 口径：只收录与带 RC 模式分区同构命中的 bundle 及其 superbundle 归属；全量 bundle 清单见官方 bundles.md",
+ "source": "bundles.md",
+ "total_bundles": 608,
+ "matched": 608,
+ "coverage_pct": 100.0,
+ "bundles": [
+  {
+   "bundle": "levels/coop_002/ab01_art_parent",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/AB01_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_002/ab01_parent",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/AB01_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_002/ab02_art_parent",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/AB02_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_002/ab02_parent",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/AB02_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_002/ab03_art_parent",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/AB03_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_002/ab03_parent",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/AB03_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_002/ab04_art_parent",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/AB04_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_002/coop_002",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/COOP_002.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_002/general_sluice_ab02_parent",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/General_Sluice_AB02_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_002/general_sluice_ab03_parent",
+   "superbundles": [
+    "levels/coop_002/coop_002"
+   ],
+   "partitions": [
+    "Levels/COOP_002/General_Sluice_AB03_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/ab00_art_parent",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/AB00_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/ab00_art_sewer_parent",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/AB00_Art_Sewer_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/ab00_parent",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/AB00_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/ab00_sewer_parent",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/AB00_Sewer_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/ab01_art_parent",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/AB01_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/ab01_parent",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/AB01_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/ab02_art_parent",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/AB02_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/ab02_parent",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/AB02_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/ab03_parent",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/AB03_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_003/coop_003",
+   "superbundles": [
+    "levels/coop_003/coop_003"
+   ],
+   "partitions": [
+    "Levels/COOP_003/COOP_003.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_006/ab00_vehicle_mobileaa_parent",
+   "superbundles": [
+    "levels/coop_006/coop_006"
+   ],
+   "partitions": [
+    "Levels/COOP_006/AB00_Vehicle_MobileAA_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_006/ab01_gameplaycovers_parent",
+   "superbundles": [
+    "levels/coop_006/coop_006"
+   ],
+   "partitions": [
+    "Levels/COOP_006/AB01_GameplayCovers_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_006/ab01_mortarteam_parent",
+   "superbundles": [
+    "levels/coop_006/coop_006"
+   ],
+   "partitions": [
+    "Levels/COOP_006/AB01_MortarTeam_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_006/ab01_parent",
+   "superbundles": [
+    "levels/coop_006/coop_006"
+   ],
+   "partitions": [
+    "Levels/COOP_006/AB01_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_006/ab02_parent",
+   "superbundles": [
+    "levels/coop_006/coop_006"
+   ],
+   "partitions": [
+    "Levels/COOP_006/AB02_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_006/ab03_parent",
+   "superbundles": [
+    "levels/coop_006/coop_006"
+   ],
+   "partitions": [
+    "Levels/COOP_006/AB03_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_006/coop_006",
+   "superbundles": [
+    "levels/coop_006/coop_006"
+   ],
+   "partitions": [
+    "Levels/COOP_006/COOP_006.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_007/ab00_parent",
+   "superbundles": [
+    "levels/coop_007/coop_007"
+   ],
+   "partitions": [
+    "Levels/COOP_007/AB00_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_007/ab01_parent",
+   "superbundles": [
+    "levels/coop_007/coop_007"
+   ],
+   "partitions": [
+    "Levels/COOP_007/AB01_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_007/ab02_parent",
+   "superbundles": [
+    "levels/coop_007/coop_007"
+   ],
+   "partitions": [
+    "Levels/COOP_007/AB02_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_007/ab04_parent",
+   "superbundles": [
+    "levels/coop_007/coop_007"
+   ],
+   "partitions": [
+    "Levels/COOP_007/AB04_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_007/ab05_parent",
+   "superbundles": [
+    "levels/coop_007/coop_007"
+   ],
+   "partitions": [
+    "Levels/COOP_007/AB05_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_007/coop_007",
+   "superbundles": [
+    "levels/coop_007/coop_007"
+   ],
+   "partitions": [
+    "Levels/COOP_007/COOP_007.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_007/stadium_ambience",
+   "superbundles": [
+    "levels/coop_007/coop_007"
+   ],
+   "partitions": [
+    "Levels/COOP_007/Stadium_Ambience.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab00_art_interior_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB00_Art_Interior_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab00_art_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB00_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab00_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB00_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab01_art_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB01_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab01_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB01_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab02_art_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB02_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab02_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB02_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab03_art_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB03_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab03_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB03_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab_art_road_1_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB_Art_Road_1_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/ab_art_road_2_parent",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/AB_Art_Road_2_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_009/coop_009",
+   "superbundles": [
+    "levels/coop_009/coop_009"
+   ],
+   "partitions": [
+    "Levels/COOP_009/COOP_009.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab00_art_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB00_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab00_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB00_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab01_ab03_buffer_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB01_AB03_Buffer_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab01_art_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB01_Art_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab01_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB01_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab03_ab04_buffer_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB03_AB04_Buffer_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab03_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB03_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab04_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB04_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab05_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB05_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/ab06_parent",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/AB06_Parent.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/coop_010/coop_010",
+   "superbundles": [
+    "levels/coop_010/coop_010"
+   ],
+   "partitions": [
+    "Levels/COOP_010/COOP_010.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/frontend/frontend",
+   "superbundles": [
+    "levels/frontend/frontend"
+   ],
+   "partitions": [
+    "Levels/FrontEnd/FrontEnd.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_001/conquest",
+   "superbundles": [
+    "levels/mp_001/mp_001"
+   ],
+   "partitions": [
+    "Levels/MP_001/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_001/conquest_large",
+   "superbundles": [
+    "levels/mp_001/mp_001"
+   ],
+   "partitions": [
+    "Levels/MP_001/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_001/lightcasters",
+   "superbundles": [
+    "levels/mp_001/mp_001"
+   ],
+   "partitions": [
+    "Levels/MP_001/Lightcasters.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_001/mp_001",
+   "superbundles": [
+    "levels/mp_001/mp_001"
+   ],
+   "partitions": [
+    "Levels/MP_001/MP_001.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_001/rush",
+   "superbundles": [
+    "levels/mp_001/mp_001"
+   ],
+   "partitions": [
+    "Levels/MP_001/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_001/squad_deathmatch",
+   "superbundles": [
+    "levels/mp_001/mp_001"
+   ],
+   "partitions": [
+    "Levels/MP_001/Squad_Deathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_001/squad_rush",
+   "superbundles": [
+    "levels/mp_001/mp_001"
+   ],
+   "partitions": [
+    "Levels/MP_001/Squad_Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_001/tdm1",
+   "superbundles": [
+    "levels/mp_001/mp_001"
+   ],
+   "partitions": [
+    "Levels/MP_001/TDM1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_001/team_deathmatch",
+   "superbundles": [
+    "levels/mp_001/mp_001"
+   ],
+   "partitions": [
+    "Levels/MP_001/Team_Deathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/common",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/Common.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/conquestlarge",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/ConquestLarge.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/conquestsmall",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/ConquestSmall.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/mp_003",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/MP_003.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/rush3",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/Rush3.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/squaddeathmatch",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/SquadDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/squadrush",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/tdm1",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/TDM1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/tdm2",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/TDM2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_003/teamdeathmatch",
+   "superbundles": [
+    "levels/mp_003/mp_003"
+   ],
+   "partitions": [
+    "Levels/MP_003/TeamDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_007/conquest_large",
+   "superbundles": [
+    "levels/mp_007/mp_007"
+   ],
+   "partitions": [
+    "Levels/MP_007/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_007/conquest_small",
+   "superbundles": [
+    "levels/mp_007/mp_007"
+   ],
+   "partitions": [
+    "Levels/MP_007/Conquest_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_007/mp_007",
+   "superbundles": [
+    "levels/mp_007/mp_007"
+   ],
+   "partitions": [
+    "Levels/MP_007/MP_007.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_007/rush",
+   "superbundles": [
+    "levels/mp_007/mp_007"
+   ],
+   "partitions": [
+    "Levels/MP_007/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_007/selective_art",
+   "superbundles": [
+    "levels/mp_007/mp_007"
+   ],
+   "partitions": [
+    "Levels/MP_007/Selective_Art.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_007/squaddeathmatch",
+   "superbundles": [
+    "levels/mp_007/mp_007"
+   ],
+   "partitions": [
+    "Levels/MP_007/SquadDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_007/squadrush",
+   "superbundles": [
+    "levels/mp_007/mp_007"
+   ],
+   "partitions": [
+    "Levels/MP_007/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_007/tdm1",
+   "superbundles": [
+    "levels/mp_007/mp_007"
+   ],
+   "partitions": [
+    "Levels/MP_007/TDM1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_007/teamdeathmatch",
+   "superbundles": [
+    "levels/mp_007/mp_007"
+   ],
+   "partitions": [
+    "Levels/MP_007/TeamDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_011/artpcexclusive",
+   "superbundles": [
+    "levels/mp_011/mp_011"
+   ],
+   "partitions": [
+    "Levels/MP_011/ArtPCExclusive.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_011/conquest_large",
+   "superbundles": [
+    "levels/mp_011/mp_011"
+   ],
+   "partitions": [
+    "Levels/MP_011/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_011/conquest_small",
+   "superbundles": [
+    "levels/mp_011/mp_011"
+   ],
+   "partitions": [
+    "Levels/MP_011/Conquest_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_011/mp_011",
+   "superbundles": [
+    "levels/mp_011/mp_011"
+   ],
+   "partitions": [
+    "Levels/MP_011/MP_011.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_011/rush",
+   "superbundles": [
+    "levels/mp_011/mp_011"
+   ],
+   "partitions": [
+    "Levels/MP_011/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_011/squaddeathmatch",
+   "superbundles": [
+    "levels/mp_011/mp_011"
+   ],
+   "partitions": [
+    "Levels/MP_011/SquadDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_011/squadrush",
+   "superbundles": [
+    "levels/mp_011/mp_011"
+   ],
+   "partitions": [
+    "Levels/MP_011/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_011/teamdeathmatch",
+   "superbundles": [
+    "levels/mp_011/mp_011"
+   ],
+   "partitions": [
+    "Levels/MP_011/TeamDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_011/teamdeathmatch_01",
+   "superbundles": [
+    "levels/mp_011/mp_011"
+   ],
+   "partitions": [
+    "Levels/MP_011/TeamDeathmatch_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/conquest_large",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/conquest_small",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/Conquest_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/mp_012",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/MP_012.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/rush",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/squaddeathmatch",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/SquadDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/squadrush",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/teamdeathmatch",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/TeamDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/tutorialmp",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/TutorialMP.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/tutorialmp_sandbox",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/TutorialMP_Sandbox.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_012/tutorialmp_shoothouse",
+   "superbundles": [
+    "levels/mp_012/mp_012"
+   ],
+   "partitions": [
+    "Levels/MP_012/TutorialMP_ShootHouse.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_013/conquestlarge",
+   "superbundles": [
+    "levels/mp_013/mp_013"
+   ],
+   "partitions": [
+    "Levels/MP_013/ConquestLarge.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_013/conquestsmall",
+   "superbundles": [
+    "levels/mp_013/mp_013"
+   ],
+   "partitions": [
+    "Levels/MP_013/ConquestSmall.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_013/mp_013",
+   "superbundles": [
+    "levels/mp_013/mp_013"
+   ],
+   "partitions": [
+    "Levels/MP_013/MP_013.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_013/pc_only",
+   "superbundles": [
+    "levels/mp_013/mp_013"
+   ],
+   "partitions": [
+    "Levels/MP_013/PC_Only.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_013/rush",
+   "superbundles": [
+    "levels/mp_013/mp_013"
+   ],
+   "partitions": [
+    "Levels/MP_013/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_013/squaddeathmatch",
+   "superbundles": [
+    "levels/mp_013/mp_013"
+   ],
+   "partitions": [
+    "Levels/MP_013/SquadDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_013/squadrush",
+   "superbundles": [
+    "levels/mp_013/mp_013"
+   ],
+   "partitions": [
+    "Levels/MP_013/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_013/tdm1",
+   "superbundles": [
+    "levels/mp_013/mp_013"
+   ],
+   "partitions": [
+    "Levels/MP_013/TDM1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_013/teamdeathmatch",
+   "superbundles": [
+    "levels/mp_013/mp_013"
+   ],
+   "partitions": [
+    "Levels/MP_013/TeamDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_017/cql",
+   "superbundles": [
+    "levels/mp_017/mp_017"
+   ],
+   "partitions": [
+    "Levels/MP_017/CQL.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_017/cqs",
+   "superbundles": [
+    "levels/mp_017/mp_017"
+   ],
+   "partitions": [
+    "Levels/MP_017/CQS.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_017/mp_017",
+   "superbundles": [
+    "levels/mp_017/mp_017"
+   ],
+   "partitions": [
+    "Levels/MP_017/MP_017.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_017/r",
+   "superbundles": [
+    "levels/mp_017/mp_017"
+   ],
+   "partitions": [
+    "Levels/MP_017/R.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_017/sdm",
+   "superbundles": [
+    "levels/mp_017/mp_017"
+   ],
+   "partitions": [
+    "Levels/MP_017/SDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_017/sr",
+   "superbundles": [
+    "levels/mp_017/mp_017"
+   ],
+   "partitions": [
+    "Levels/MP_017/SR.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_017/tdm",
+   "superbundles": [
+    "levels/mp_017/mp_017"
+   ],
+   "partitions": [
+    "Levels/MP_017/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/conquest",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/conquest_large",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/conquest_large2",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/Conquest_Large2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/conquest_small",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/Conquest_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/conquest_small2",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/Conquest_Small2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/mp_018",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/MP_018.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/mp_global2",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/MP_Global2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/rush",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/squaddeathmatch",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/SquadDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/squadrush",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/tdm1",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/TDM1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_018/teamdeathmatch",
+   "superbundles": [
+    "levels/mp_018/mp_018"
+   ],
+   "partitions": [
+    "Levels/MP_018/TeamDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/common",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/Common.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/conquest_small",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/Conquest_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/gameplayobjects",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/GamePlayObjects.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/mp_subway",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/MP_Subway.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/rush",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/squaddeathmatch",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/SquadDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/squadrush",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/tdm1",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/TDM1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/tdm2",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/TDM2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/teamdeathmatch",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/TeamDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/teams_large",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/Teams_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/mp_subway/teams_small",
+   "superbundles": [
+    "levels/mp_subway/mp_subway"
+   ],
+   "partitions": [
+    "Levels/MP_Subway/Teams_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/assault_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Assault_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/assaultcanalprops_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/AssaultCanalProps_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/backdrop",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Backdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/backdrophighway_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/BackdropHighway_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/bank_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Bank_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/bmd",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/BMD.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/breach_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Breach_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/bridge_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Bridge_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/convoy_art_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Convoy_Art_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/convoy_start_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Convoy_Start_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/convoy_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Convoy_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/highway_01_ambience_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Highway_01_Ambience_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/highway_01_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Highway_01_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/highway_02_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Highway_02_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/highway_03_ambience_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Highway_03_Ambience_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/highway_03_props",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Highway_03_Props.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/highway_03_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Highway_03_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/house_art_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/House_ART_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/house_props_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/House_Props_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/house_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/House_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/intro_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Intro_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/lightmap_01",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/LightMap_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/lightmap_02",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/LightMap_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/lightmap_03",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/LightMap_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/lightmap_04",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/LightMap_04.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/marines",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/MARINES.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/marines2",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/MARINES2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/ministry_ambience_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Ministry_Ambience_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/ministry_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Ministry_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/passage_cutscene",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Passage_CUTSCENE.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/passage_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Passage_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/plaza",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Plaza.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/plaza_interior_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Plaza_Interior_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/plazalightz_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/PlazaLightz_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/plazaprops_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/PlazaProps_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/regroup",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/REGROUP.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/ride_ambience_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Ride_Ambience_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/ride_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Ride_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/sp_bank",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/SP_Bank.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/tank_art_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Tank_ART_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/tank_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Tank_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/trenchintro",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/TrenchIntro.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/vault_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/Vault_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/vaultart_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/VaultART_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/vaultdescentanimations",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/VaultDescentAnimations.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/vaultendanimations",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/VaultEndAnimations.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_bank/vaultstream_sub",
+   "superbundles": [
+    "levels/sp_bank/sp_bank"
+   ],
+   "partitions": [
+    "Levels/SP_Bank/VaultStream_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/alley",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/Alley.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/backdrop",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/Backdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/bazaar",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/Bazaar.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/bazaarfacade",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/BazaarFacade.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/bridgefight",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/BridgeFight.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/briefing",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/Briefing.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/building",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/Building.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/cellar",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/Cellar.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/earthquake",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/Earthquake.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/ied",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/IED.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/lavscene",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/LAVScene.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/lavsceneoccluders",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/LAVSceneOccluders.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/lightmap_01",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/LightMap_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/lightmap_02",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/LightMap_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/lightmap_03",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/LightMap_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/meatmarket",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/MeatMarket.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/parkinglot",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/ParkingLot.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/parkinglotsurroundings",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/ParkingLotSurroundings.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/rooftop",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/Rooftop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/rooftopextraction",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/RooftopExtraction.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/rooftopparkour",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/RooftopParkour.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/rooftopsniper",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/RooftopSniper.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/school",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/School.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/schoolbuilding",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/SchoolBuilding.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/sp_earthquake",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/SP_Earthquake.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/stagingarea",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/StagingArea.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/stagingareasurroundings",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/StagingAreaSurroundings.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/stagingareawin32",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/StagingAreaWin32.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake/streetcrossing",
+   "superbundles": [
+    "levels/sp_earthquake/sp_earthquake"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake/StreetCrossing.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/alley_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/Alley_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/backdrop",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/Backdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/bazaar_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/Bazaar_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/cafe_doorsub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/Cafe_DOORSUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/cafe_meetmontes",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/Cafe_MEETMONTES.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/cafe_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/Cafe_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/largebuilding_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/LargeBuilding_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/lightmap_01",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/LightMap_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/lightmap_02",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/LightMap_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/lightmap_03",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/LightMap_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/meatmarket_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/MeatMarket_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/parkinglot_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/ParkingLot_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/rift2_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/Rift2_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/rift_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/Rift_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/school_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/School_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/solomon_intro",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/Solomon_Intro.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/sp_earthquake2",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/SP_Earthquake2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/stagingarea_bigprops",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/StagingArea_BIGPROPS.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_earthquake2/stagingarea_sub",
+   "superbundles": [
+    "levels/sp_earthquake2/sp_earthquake2"
+   ],
+   "partitions": [
+    "Levels/SP_Earthquake2/StagingArea_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/chase_sub",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/Chase_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/credits",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/Credits.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/escape_sub",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/Escape_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/fight_sub",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/Fight_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/level",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/Level.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/lightmap_01",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/LightMap_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/lightmap_02",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/LightMap_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/lightmap_03",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/LightMap_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/lightmap_04",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/LightMap_04.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/penn_sub",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/Penn_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/sewerart_sub",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/SewerART_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/sp_finale",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/SP_Finale.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/street_sub",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/Street_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_finale/trainride_sub",
+   "superbundles": [
+    "levels/sp_finale/sp_finale"
+   ],
+   "partitions": [
+    "Levels/SP_Finale/TrainRide_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/area_carrierlanding",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/Area_CarrierLanding.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/area_dogfight_1",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/Area_Dogfight_1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/area_dogfight_2",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/Area_Dogfight_2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/area_fleet",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/Area_Fleet.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/area_going_home",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/Area_Going_Home.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/area_highway_of_death",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/Area_Highway_Of_Death.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/art_dogfightparttwo_backdrop",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/ART_DogfightPartTwo_Backdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/carrier_details",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/Carrier_Details.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/carrier_interior",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/Carrier_Interior.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/carrierstart_playerandwingmananimations",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/CarrierStart_playerAndWingmanAnimations.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/dogfightpartone_backdrop",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/DogfightPartOne_Backdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/particleclouds",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/ParticleClouds.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_jet/sp_jet",
+   "superbundles": [
+    "levels/sp_jet/sp_jet"
+   ],
+   "partitions": [
+    "Levels/SP_Jet/SP_Jet.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_new_york/level",
+   "superbundles": [
+    "levels/sp_new_york/sp_new_york"
+   ],
+   "partitions": [
+    "Levels/SP_New_York/Level.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_new_york/lightmap_01",
+   "superbundles": [
+    "levels/sp_new_york/sp_new_york"
+   ],
+   "partitions": [
+    "Levels/SP_New_York/LightMap_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_new_york/lightmap_02",
+   "superbundles": [
+    "levels/sp_new_york/sp_new_york"
+   ],
+   "partitions": [
+    "Levels/SP_New_York/LightMap_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_new_york/sp_new_york",
+   "superbundles": [
+    "levels/sp_new_york/sp_new_york"
+   ],
+   "partitions": [
+    "Levels/SP_New_York/SP_New_York.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_new_york/trainride_sub",
+   "superbundles": [
+    "levels/sp_new_york/sp_new_york"
+   ],
+   "partitions": [
+    "Levels/SP_New_York/TrainRide_SUB.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/backdropbuildingsclose",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/BackdropBuildingsClose.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/backdropbuildingsfar",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/BackdropBuildingsFar.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/chase",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/Chase.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/chaseintro",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/ChaseIntro.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/corridorcorner",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/CorridorCorner.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/corridorsluice",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/CorridorSluice.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/gaseventsluice",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/GasEventSluice.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/heat",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/Heat.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/heat_pc_only",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/Heat_PC_Only.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/lightmap_01",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/LightMap_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/lightmap_02",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/LightMap_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/lightmap_03",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/LightMap_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/lobby",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/Lobby.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/loweroffice",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/LowerOffice.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/loweroffice_pc",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/LowerOffice_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/parkingdeck",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/ParkingDeck.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/parkingdeckgate",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/ParkingDeckGate.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/parkingdeckgate_pc",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/ParkingDeckGate_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/rail",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/Rail.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/railbackdrop",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/RailBackdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/sp_paris",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/SP_Paris.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/street",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/Street.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/tradingfloor",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/TradingFloor.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/upperoffice",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/UpperOffice.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_paris/upperoffice_pc",
+   "superbundles": [
+    "levels/sp_paris/sp_paris"
+   ],
+   "partitions": [
+    "Levels/SP_Paris/UpperOffice_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/albashirstrike",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/AlBashirStrike.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/albashirstrikeart",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/AlBashirStrikeArt.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/albashirstrikeart_pc",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/AlBashirStrikeArt_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/background_01",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Background_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/background_02",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Background_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/background_persistant",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Background_Persistant.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/backstreets",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Backstreets.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/briefing",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Briefing.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/failknife",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/FailKnife.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/mall",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Mall.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/mall_behindstreet",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Mall_BehindStreet.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/mall_exterior",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Mall_Exterior.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/mall_exterior_pc",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Mall_Exterior_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/mall_pc",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Mall_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/malldefence",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/MallDefence.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/malldefence_animation1",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/MallDefence_Animation1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/malldefence_animation2",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/MallDefence_Animation2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/malldefence_animation3",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/MallDefence_Animation3.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/malldefence_animation4",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/MallDefence_Animation4.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/malldefence_animation5",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/MallDefence_Animation5.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/mannequinroom",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/MannequinRoom.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/missile",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Missile.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/overwatch",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Overwatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/plaza",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Plaza.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/reconnest",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/ReconNest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/reconnest_pc",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/ReconNest_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/rocketapartment",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/RocketApartment.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/sewers",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/Sewers.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_sniper/sp_sniper",
+   "superbundles": [
+    "levels/sp_sniper/sp_sniper"
+   ],
+   "partitions": [
+    "Levels/SP_Sniper/SP_Sniper.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/backdrop",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/Backdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/bankplaza_01",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/BankPlaza_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/desertfort",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DesertFort.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/desertfortpconly",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DesertFortPConly.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/desertfortsmallobjects_01_levelart",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DesertFortSmallObjects_01_LevelArt.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/desertintro",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DesertIntro.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/drivetobank_01_substream_01",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DriveToBank_01_Substream_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/drivetobank_01_substream_02",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DriveToBank_01_Substream_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/drivetobank_01_substream_03",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DriveToBank_01_Substream_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/drivetobank_02_substream_01",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DriveToBank_02_Substream_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/drivetobank_02_substream_02",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DriveToBank_02_Substream_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/drivetobankplaza_01",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DriveToBankPlaza_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/drivetobankplaza_02",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DriveToBankPlaza_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/drivetobankplaza_03",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/DriveToBankPlaza_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/highwayofdeath",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/HighwayOfDeath.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/highwayofdeath2",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/HighwayOfDeath2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/highwayoverpass_01",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/HighwayOverpass_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/highwayoverpass_01_levelart_substream_01",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/HighWayOverpass_01_LevelArt_Substream_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/highwaytoteheran_01",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/HighwayToTeheran_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/highwaytoteheran_02",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/HighwayToTeheran_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/miclic",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/MICLIC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/miclic-highwaytoteheran",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/MICLIC-HighwayToTeheran.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/miclicart",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/MICLICArt.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/roadtodesert_01",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/RoadToDesert_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank/sp_tank",
+   "superbundles": [
+    "levels/sp_tank/sp_tank"
+   ],
+   "partitions": [
+    "Levels/SP_Tank/SP_Tank.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/ambush",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/Ambush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/bankplaza_01",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/BankPlaza_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/bankplazabackdrop",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/BankPlazaBackdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/blockedstreet",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/BlockedStreet.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/blockedstreet2",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/BlockedStreet2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/drivethrough",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/DriveThrough.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/drivetobankplaza_01",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/DriveToBankPlaza_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/drivetobankplaza_03",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/DriveToBankPlaza_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/introrail",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/IntroRail.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/lightmap_01",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/LightMap_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/lightmap_02",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/LightMap_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/lightmap_03",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/LightMap_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/outroscene",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/Outroscene.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/sidestreet",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/SideStreet.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_tank_b/sp_tank_b",
+   "superbundles": [
+    "levels/sp_tank_b/sp_tank_b"
+   ],
+   "partitions": [
+    "Levels/SP_Tank_b/SP_Tank_b.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/airdrop",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Airdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/ambientwar",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/AmbientWar.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/briefingonhill",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/BriefingOnHill.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/forest",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Forest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/forestart",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ForestArt.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/hillside",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Hillside.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/ridge",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Ridge.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/rundownhill",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/RunDownHill.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/sp_valley",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/SP_Valley.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valley",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Valley.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleyadvancetobridge",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyAdvanceToBridge.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleyart",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyArt.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleyartillerycamp",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyArtilleryCamp.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleyfield1",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyField1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleyfield2",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyField2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleyjet",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyJet.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleyjet_endscene",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyJet_EndScene.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleyjetbriefing",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyJetBriefing.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleytankbattle",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyTankBattle.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/valleytankbriefing",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/ValleyTankBriefing.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/zone1",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Zone1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/zone2",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Zone2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/zone3",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Zone3.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/zone4",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Zone4.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_valley/zone5",
+   "superbundles": [
+    "levels/sp_valley/sp_valley"
+   ],
+   "partitions": [
+    "Levels/SP_Valley/Zone5.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/background",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Background.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/basement",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Basement.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/blackburn",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Blackburn.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/chopper",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Chopper.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/drive",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Drive.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/drive_2",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Drive_2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/drive_pc",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Drive_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/garden",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Garden.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/garden_pc",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Garden_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/gatehouse",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/GateHouse.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/halo",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Halo.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/halo_backdrop",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Halo_Backdrop.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/landing",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Landing.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/lightmap_01",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Lightmap_01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/lightmap_02",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Lightmap_02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/lightmap_03",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Lightmap_03.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/lightmap_cutscene01",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Lightmap_Cutscene01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/lightmap_cutscene02",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Lightmap_Cutscene02.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/poolhouse",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Poolhouse.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/poolhouse_extra",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Poolhouse_Extra.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/rail",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Rail.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/railsuv",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/RailSUV.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/sp_villa",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/SP_Villa.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/villa",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Villa.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/villa_extra",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Villa_Extra.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/sp_villa/villa_pc",
+   "superbundles": [
+    "levels/sp_villa/sp_villa"
+   ],
+   "partitions": [
+    "Levels/SP_Villa/Villa_PC.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/web_loading/web_loading",
+   "superbundles": [
+    "levels/web_loading/web_loading"
+   ],
+   "partitions": [
+    "Levels/Web_Loading/Web_Loading.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_001/conquest_large",
+   "superbundles": [
+    "levels/xp1_001/xp1_001"
+   ],
+   "partitions": [
+    "Levels/XP1_001/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_001/conquest_small",
+   "superbundles": [
+    "levels/xp1_001/xp1_001"
+   ],
+   "partitions": [
+    "Levels/XP1_001/Conquest_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_001/cq_s1",
+   "superbundles": [
+    "levels/xp1_001/xp1_001"
+   ],
+   "partitions": [
+    "Levels/XP1_001/CQ_S1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_001/rush",
+   "superbundles": [
+    "levels/xp1_001/xp1_001"
+   ],
+   "partitions": [
+    "Levels/XP1_001/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_001/squaddeathmatch",
+   "superbundles": [
+    "levels/xp1_001/xp1_001"
+   ],
+   "partitions": [
+    "Levels/XP1_001/SquadDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_001/squadrush",
+   "superbundles": [
+    "levels/xp1_001/xp1_001"
+   ],
+   "partitions": [
+    "Levels/XP1_001/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_001/tdm",
+   "superbundles": [
+    "levels/xp1_001/xp1_001"
+   ],
+   "partitions": [
+    "Levels/XP1_001/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_001/xp1_001",
+   "superbundles": [
+    "levels/xp1_001/xp1_001"
+   ],
+   "partitions": [
+    "Levels/XP1_001/XP1_001.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_002/cq_l",
+   "superbundles": [
+    "levels/xp1_002/xp1_002"
+   ],
+   "partitions": [
+    "Levels/XP1_002/CQ_L.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_002/cq_s",
+   "superbundles": [
+    "levels/xp1_002/xp1_002"
+   ],
+   "partitions": [
+    "Levels/XP1_002/CQ_S.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_002/cq_s1",
+   "superbundles": [
+    "levels/xp1_002/xp1_002"
+   ],
+   "partitions": [
+    "Levels/XP1_002/CQ_S1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_002/r",
+   "superbundles": [
+    "levels/xp1_002/xp1_002"
+   ],
+   "partitions": [
+    "Levels/XP1_002/R.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_002/sqdm",
+   "superbundles": [
+    "levels/xp1_002/xp1_002"
+   ],
+   "partitions": [
+    "Levels/XP1_002/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_002/sr",
+   "superbundles": [
+    "levels/xp1_002/xp1_002"
+   ],
+   "partitions": [
+    "Levels/XP1_002/SR.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_002/tdm",
+   "superbundles": [
+    "levels/xp1_002/xp1_002"
+   ],
+   "partitions": [
+    "Levels/XP1_002/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_002/xp1_002",
+   "superbundles": [
+    "levels/xp1_002/xp1_002"
+   ],
+   "partitions": [
+    "Levels/XP1_002/XP1_002.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_003/cq_l",
+   "superbundles": [
+    "levels/xp1_003/xp1_003"
+   ],
+   "partitions": [
+    "Levels/XP1_003/CQ_L.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_003/cq_s",
+   "superbundles": [
+    "levels/xp1_003/xp1_003"
+   ],
+   "partitions": [
+    "Levels/XP1_003/CQ_S.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_003/cq_s1",
+   "superbundles": [
+    "levels/xp1_003/xp1_003"
+   ],
+   "partitions": [
+    "Levels/XP1_003/CQ_S1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_003/r",
+   "superbundles": [
+    "levels/xp1_003/xp1_003"
+   ],
+   "partitions": [
+    "Levels/XP1_003/R.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_003/sqdm",
+   "superbundles": [
+    "levels/xp1_003/xp1_003"
+   ],
+   "partitions": [
+    "Levels/XP1_003/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_003/sr",
+   "superbundles": [
+    "levels/xp1_003/xp1_003"
+   ],
+   "partitions": [
+    "Levels/XP1_003/SR.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_003/tdm",
+   "superbundles": [
+    "levels/xp1_003/xp1_003"
+   ],
+   "partitions": [
+    "Levels/XP1_003/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_003/xp1_003",
+   "superbundles": [
+    "levels/xp1_003/xp1_003"
+   ],
+   "partitions": [
+    "Levels/XP1_003/XP1_003.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_004/cq_l",
+   "superbundles": [
+    "levels/xp1_004/xp1_004"
+   ],
+   "partitions": [
+    "Levels/XP1_004/CQ_L.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_004/cq_s",
+   "superbundles": [
+    "levels/xp1_004/xp1_004"
+   ],
+   "partitions": [
+    "Levels/XP1_004/CQ_S.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_004/r",
+   "superbundles": [
+    "levels/xp1_004/xp1_004"
+   ],
+   "partitions": [
+    "Levels/XP1_004/R.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_004/sqdm",
+   "superbundles": [
+    "levels/xp1_004/xp1_004"
+   ],
+   "partitions": [
+    "Levels/XP1_004/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_004/sr",
+   "superbundles": [
+    "levels/xp1_004/xp1_004"
+   ],
+   "partitions": [
+    "Levels/XP1_004/SR.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_004/tdm",
+   "superbundles": [
+    "levels/xp1_004/xp1_004"
+   ],
+   "partitions": [
+    "Levels/XP1_004/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp1_004/xp1_004",
+   "superbundles": [
+    "levels/xp1_004/xp1_004"
+   ],
+   "partitions": [
+    "Levels/XP1_004/XP1_004.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_factory/deathmatch",
+   "superbundles": [
+    "levels/xp2_factory/xp2_factory"
+   ],
+   "partitions": [
+    "Levels/XP2_Factory/Deathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_factory/dom2",
+   "superbundles": [
+    "levels/xp2_factory/xp2_factory"
+   ],
+   "partitions": [
+    "Levels/XP2_Factory/DOM2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_factory/gunmaster",
+   "superbundles": [
+    "levels/xp2_factory/xp2_factory"
+   ],
+   "partitions": [
+    "Levels/XP2_Factory/GunMaster.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_factory/sqdm",
+   "superbundles": [
+    "levels/xp2_factory/xp2_factory"
+   ],
+   "partitions": [
+    "Levels/XP2_Factory/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_factory/tdm",
+   "superbundles": [
+    "levels/xp2_factory/xp2_factory"
+   ],
+   "partitions": [
+    "Levels/XP2_Factory/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_factory/xp2_factory",
+   "superbundles": [
+    "levels/xp2_factory/xp2_factory"
+   ],
+   "partitions": [
+    "Levels/XP2_Factory/XP2_Factory.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_office/deathmatch",
+   "superbundles": [
+    "levels/xp2_office/xp2_office"
+   ],
+   "partitions": [
+    "Levels/XP2_Office/DeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_office/domination",
+   "superbundles": [
+    "levels/xp2_office/xp2_office"
+   ],
+   "partitions": [
+    "Levels/XP2_Office/Domination.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_office/gunmaster",
+   "superbundles": [
+    "levels/xp2_office/xp2_office"
+   ],
+   "partitions": [
+    "Levels/XP2_Office/GunMaster.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_office/sqdm",
+   "superbundles": [
+    "levels/xp2_office/xp2_office"
+   ],
+   "partitions": [
+    "Levels/XP2_Office/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_office/teamdeathmatch",
+   "superbundles": [
+    "levels/xp2_office/xp2_office"
+   ],
+   "partitions": [
+    "Levels/XP2_Office/TeamDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_office/xp2_office",
+   "superbundles": [
+    "levels/xp2_office/xp2_office"
+   ],
+   "partitions": [
+    "Levels/XP2_Office/XP2_Office.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_palace/deathmatch",
+   "superbundles": [
+    "levels/xp2_palace/xp2_palace"
+   ],
+   "partitions": [
+    "Levels/XP2_Palace/DeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_palace/domination",
+   "superbundles": [
+    "levels/xp2_palace/xp2_palace"
+   ],
+   "partitions": [
+    "Levels/XP2_Palace/Domination.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_palace/gunmaster",
+   "superbundles": [
+    "levels/xp2_palace/xp2_palace"
+   ],
+   "partitions": [
+    "Levels/XP2_Palace/GunMaster.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_palace/squaddeathmatch",
+   "superbundles": [
+    "levels/xp2_palace/xp2_palace"
+   ],
+   "partitions": [
+    "Levels/XP2_Palace/SquadDeathmatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_palace/teamdeathmatch",
+   "superbundles": [
+    "levels/xp2_palace/xp2_palace"
+   ],
+   "partitions": [
+    "Levels/XP2_Palace/TeamDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_palace/xp2_palace",
+   "superbundles": [
+    "levels/xp2_palace/xp2_palace"
+   ],
+   "partitions": [
+    "Levels/XP2_Palace/XP2_Palace.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_skybar/deathmatch",
+   "superbundles": [
+    "levels/xp2_skybar/xp2_skybar"
+   ],
+   "partitions": [
+    "Levels/XP2_Skybar/DeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_skybar/domination",
+   "superbundles": [
+    "levels/xp2_skybar/xp2_skybar"
+   ],
+   "partitions": [
+    "Levels/XP2_Skybar/DOMINATION.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_skybar/gunmaster",
+   "superbundles": [
+    "levels/xp2_skybar/xp2_skybar"
+   ],
+   "partitions": [
+    "Levels/XP2_Skybar/GunMaster.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_skybar/squaddm",
+   "superbundles": [
+    "levels/xp2_skybar/xp2_skybar"
+   ],
+   "partitions": [
+    "Levels/XP2_Skybar/SquadDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_skybar/teamdm",
+   "superbundles": [
+    "levels/xp2_skybar/xp2_skybar"
+   ],
+   "partitions": [
+    "Levels/XP2_Skybar/TeamDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp2_skybar/xp2_skybar",
+   "superbundles": [
+    "levels/xp2_skybar/xp2_skybar"
+   ],
+   "partitions": [
+    "Levels/XP2_Skybar/XP2_Skybar.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/conquest",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/CONQUEST.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/conquestlarge01",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/ConquestLarge01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/conquestsmall01",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/ConquestSmall01.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/deathmatch",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/DEATHMATCH.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/rush",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/RUSH.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/rushlarge0",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/RushLarge0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/sqdm",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/squadrush0",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/SquadRush0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/tanksuperiority",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/TankSuperiority.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/tdm",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_alborz/xp3_alborz",
+   "superbundles": [
+    "levels/xp3_alborz/xp3_alborz"
+   ],
+   "partitions": [
+    "Levels/XP3_Alborz/XP3_Alborz.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/conquest",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/CONQUEST.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/conquestlarge0",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/ConquestLarge0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/conquestsmall0",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/ConquestSmall0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/deathmatch",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/DEATHMATCH.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/rush",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/RUSH.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/rushlarge0",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/RushLarge0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/squaddeathmatch1",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/SquadDeathMatch1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/squadrush0",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/SquadRush0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/tanksuperiority",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/TANKSUPERIORITY.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/teamdeathmatch1",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/TeamDeathMatch1.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_desert/xp3_desert",
+   "superbundles": [
+    "levels/xp3_desert/xp3_desert"
+   ],
+   "partitions": [
+    "Levels/XP3_Desert/XP3_Desert.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/conquest",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/CONQUEST.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/conquestlarge0",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/ConquestLarge0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/conquestsmall0",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/ConquestSmall0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/deathmatch",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/DEATHMATCH.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/rush",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/RUSH.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/rushlarge",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/RushLarge.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/sqdm",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/squadrush",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/tanksuperiority",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/TankSuperiority.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/tdm",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_shield/xp3_shield",
+   "superbundles": [
+    "levels/xp3_shield/xp3_shield"
+   ],
+   "partitions": [
+    "Levels/XP3_Shield/XP3_Shield.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/conquest",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/cql0",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/CQL0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/cqs0",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/CQS0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/deathmatch",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/DeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/rush",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/sqdm",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/squadrush",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/tanksuperiority",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/TankSuperiority.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/tdm",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp3_valley/xp3_valley",
+   "superbundles": [
+    "levels/xp3_valley/xp3_valley"
+   ],
+   "partitions": [
+    "Levels/XP3_Valley/XP3_Valley.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/conquest",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/conquest_large",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/conquest_small0",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/Conquest_Small0.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/deathmatch",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/DeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/gunmaster",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/GunMaster.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/rush",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/rushes",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/Rushes.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/scavenger_v2",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/Scavenger_V2.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/squaddeathmatch",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/SquadDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/squadrush",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/teamdeathmatch",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/TeamDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_fd/xp4_fd",
+   "superbundles": [
+    "levels/xp4_fd/xp4_fd"
+   ],
+   "partitions": [
+    "Levels/XP4_FD/XP4_FD.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/conquest",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/conquest_large",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/conquest_small",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/Conquest_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/deathmatch",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/DeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/gunmaster",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/GunMaster.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/rush",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/rushlarge",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/Rushlarge.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/scavenger",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/Scavenger.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/squaddeathmatch",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/SquadDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/squadrush",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/teamdeathmatch",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/TeamDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_parl/xp4_parl",
+   "superbundles": [
+    "levels/xp4_parl/xp4_parl"
+   ],
+   "partitions": [
+    "Levels/XP4_Parl/XP4_Parl.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/conquest",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/conquest_large",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/conquest_small",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/Conquest_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/deathmatch",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/DeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/gunmaster",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/GunMaster.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/rushes",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/Rushes.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/rushlarge",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/RushLarge.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/scavenger",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/Scavenger.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/squaddeathmatch",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/SquadDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/squadrush",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/teamdeathmatch",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/TeamDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_quake/xp4_quake",
+   "superbundles": [
+    "levels/xp4_quake/xp4_quake"
+   ],
+   "partitions": [
+    "Levels/XP4_Quake/XP4_Quake.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/conquest",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/conquest_large",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/Conquest_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/conquest_small",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/Conquest_Small.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/deatmatch",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/DeatMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/gunmaster",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/GunMaster.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/rush_large",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/Rush_Large.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/rushes",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/Rushes.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/scavenger",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/Scavenger.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/squad_rush",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/Squad_Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/squaddeathmatch",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/SquadDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/teamdeathmatch",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/TeamDeathMatch.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp4_rubble/xp4_rubble",
+   "superbundles": [
+    "levels/xp4_rubble/xp4_rubble"
+   ],
+   "partitions": [
+    "Levels/XP4_Rubble/XP4_Rubble.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/air_superiority",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/Air_Superiority.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/conquest",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/cql",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/CQL.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/cqs",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/CQS.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/ctf",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/CTF.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/dm",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/DM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/rush",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/sqdm",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/squadrush",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/tdm",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_001/xp5_001",
+   "superbundles": [
+    "levels/xp5_001/xp5_001"
+   ],
+   "partitions": [
+    "Levels/XP5_001/XP5_001.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/air_superiority",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/Air_Superiority.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/conquest",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/cql",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/CQL.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/cqs",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/CQS.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/ctf",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/CTF.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/dm",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/DM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/rush",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/sqdm",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/squadrush",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/tdm",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_002/xp5_002",
+   "superbundles": [
+    "levels/xp5_002/xp5_002"
+   ],
+   "partitions": [
+    "Levels/XP5_002/XP5_002.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/airsueriority",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/AirSueriority.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/conquest",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/cql",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/CQL.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/cqs",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/CQS.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/ctf",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/CTF.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/dm",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/DM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/rush",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/sqdm",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/squadrush",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/tdm",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_003/xp5_003",
+   "superbundles": [
+    "levels/xp5_003/xp5_003"
+   ],
+   "partitions": [
+    "Levels/XP5_003/XP5_003.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/airsuperiority",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/AirSuperiority.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/conquest",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/Conquest.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/cql",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/CQL.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/cqs",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/CQS.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/ctf",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/CTF.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/dm",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/DM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/rush",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/Rush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/sqdm",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/SQDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/squadrush",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/SquadRush.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/tdm",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/TDM.txt"
+   ],
+   "match": "exact"
+  },
+  {
+   "bundle": "levels/xp5_004/xp5_004",
+   "superbundles": [
+    "levels/xp5_004/xp5_004"
+   ],
+   "partitions": [
+    "Levels/XP5_004/XP5_004.txt"
+   ],
+   "match": "exact"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+name: smoke
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  selfcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 项目自证：一条命令跑完全部机械断言（编译 / 数据完整 / 查询可用 /
+      # 缺文件提示可照做 / 清理脚本空跑 / 中英文档章节对齐）。
+      # 退出码 0=全通过，1=有失败。
+      - name: Self-check
+        run: python tools/selfcheck.py
+
+      # 同一份结果，机器可读。外部流程（审核方 / skill）读这个判定即可。
+      - name: Self-check (machine-readable)
+        if: always()
+        run: python tools/selfcheck.py --json

@@ -1,0 +1,9 @@
+# 统一换行符：仓库内一律 LF，检出时按平台
+* text=auto eol=lf
+
+# 二进制/数据文件不做换行转换
+*.png binary
+*.jpg binary
+*.ico binary
+*.zip binary
+*.jsonl -text

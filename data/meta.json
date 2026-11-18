@@ -1,0 +1,11 @@
+{
+  "tool": "bundles-guid/tools/build_guid_index.py",
+  "generated_utc": "2026-11-17T23:54:27Z",
+  "ebx_data_version": "Version=1147186; DateTime=2013-02-14T13:05:43; BranchId=Frostbite/Sandboxes/VeniceXpack5RetailPc",
+  "scope": "bundles",
+  "partition_rule": "首行 Partition <GUID> 才算分区；RegistryContainer 只收列 0 实例定义行",
+  "total_txt": 73475,
+  "scanned_partition_total": 73475,
+  "partition_count": 608,
+  "registry_container_count": 608
+}
